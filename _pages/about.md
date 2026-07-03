@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Andreas. I'm an engineer and researcher based in Bremen, Germany.
+Hi, I'm Andreas. I'm an engineer and former research scientist.
 
 The main purpose of this website is to have a place that links to my social online profiles.
 
